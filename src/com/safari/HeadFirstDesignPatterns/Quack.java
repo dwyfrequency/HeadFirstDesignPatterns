@@ -5,6 +5,6 @@ package com.safari.HeadFirstDesignPatterns;
  */
 public class Quack implements QuackBehavior {
     public void quack() {
-        System.out.println("com.safari.HeadFirstDesignPatterns.Quack");
+        System.out.println("Quack");
     }
 }
